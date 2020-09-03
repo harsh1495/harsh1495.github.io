@@ -279,12 +279,12 @@ section.bluish {
   background-color: #fff;
 }
 
-.progress .bg-blue {
-  background-color: #2e96a5;
-}
-
 .progress .bg-beige {
   background-color: #d3c3b4;
+}
+
+.progress .bg-blue {
+  background-color: #2e96a5;
 }
 
 .card {
