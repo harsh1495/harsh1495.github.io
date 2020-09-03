@@ -261,6 +261,19 @@ section.pinkish {
   background-color: #d99f7e;
 }
 
+section.beige {
+  background-color: #eee2d6;
+  color: #000 !important;
+}
+
+section.orangish {
+  background-color: #fed6a2;
+}
+
+section.bluish {
+  background-color: #daeae9;
+}
+
 .progress {
   height: 0.6rem;
   background-color: #fff;
