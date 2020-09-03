@@ -244,6 +244,23 @@ section.pink {
   background-color: #fff1f1;
 }
 
+section.sky {
+  background-color: #aee6f2;
+  color: #000 !important;
+}
+
+section.greenish {
+  background-color: #78bfa5;
+}
+
+section.yellowish {
+  background-color: #f2cb57;
+}
+
+section.pinkish {
+  background-color: #d99f7e;
+}
+
 .progress {
   height: 0.6rem;
   background-color: #fff;
