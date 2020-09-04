@@ -107,7 +107,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .form-control {
   border: none;
-  background-color: #e8ebef !important;
+  background-color: #ffffff !important;
 }
 
 .primaryMenu {
@@ -195,6 +195,10 @@ h1, h2, h3, h4, h5, h6 {
 .social a:hover i {
   -webkit-transform: scale(1.3);
           transform: scale(1.3);
+}
+
+.experience a {
+  color: #8da5a3;
 }
 
 section {
